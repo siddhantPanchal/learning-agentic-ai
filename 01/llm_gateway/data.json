@@ -1,0 +1,5 @@
+{
+  "prompt": "tell me about redis in 100 sentence",
+  "model_provider": "openrouter",
+  "model_name": "inclusionai/ling-3.1-flash"
+}

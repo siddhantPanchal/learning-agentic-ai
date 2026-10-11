@@ -1,0 +1,17 @@
+[project]
+name = "learn-agentic-ai"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.143.0",
+    "langchain>=1.4.4",
+    "langchain-core>=1.6.9",
+    "langchain-openai>=1.7.0",
+    "langchain-openrouter>=0.2.9",
+    "openai>=3.26.1",
+    "pydantic>=2.14.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "starlette>=1.7.0",
+    "uvicorn>=0.54.0",
+]
