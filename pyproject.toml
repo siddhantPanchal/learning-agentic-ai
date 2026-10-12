@@ -8,6 +8,7 @@ dependencies = [
     "langchain-core>=1.6.9",
     "langchain-openai>=1.7.0",
     "langchain-openrouter>=0.2.9",
+    "langchain-typesafe>=0.0.1a3",
     "openai>=3.26.1",
     "pydantic>=2.14.0",
     "python-dotenv>=1.2.4",
