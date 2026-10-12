@@ -1,0 +1,100 @@
+Write a Python function using recursion to calculate the nth Fibonacci number.
+Explain the difference between TCP and UDP in three concise sentences.
+Write a JavaScript arrow function that filters an array of numbers to keep only even integers.
+Write a regular expression that matches standard IPv4 addresses.
+Convert the following SQL query to a MongoDB find query: SELECT * FROM users WHERE age > 25 AND status = 'active';
+Write a bash command to find all files modified in the last 7 days within the current directory.
+Write a C# method using LINQ to find the highest value in an array of integers.
+Explain what a deadlock is in multithreading using a simple real-world analogy.
+Write a CSS snippet to create a sticky navigation bar at the top of the viewport.
+Write a Python script to parse a CSV string and return a list of dictionaries.
+Explain the time complexity of QuickSort in best, average, and worst cases.
+Write a JSON schema validating an object with a string name, integer age, and boolean isActive.
+Write a Git command sequence to undo the last local commit while keeping working directory changes intact.
+Write a TypeScript interface definition for a user profile containing id, username, roles array, and optional metadata.
+Write a Python snippet using list comprehensions to flatten a 2D matrix.
+Explain how asymmetric encryption works using public and private keys in two paragraphs.
+Write a Dockerfile configuration for running a basic Python Flask application.
+Write a SQL query to rank employees by salary within each department using window functions.
+Write a recursive function in JavaScript to calculate the factorial of a given integer.
+Explain the core differences between REST and GraphQL architectural styles.
+Convert the following text into a clean Markdown table with columns Name, Role, and Department: Alice is a Software Engineer in Engineering. Bob is a Product Manager in Product. Charlie is a Designer in UX.
+Extract all valid email addresses from this string and output them as a JSON array: Contact support at help@example.com or sales@company.org for details.
+Convert this plain text log line into a JSON object with keys timestamp, level, service, and message: [2026-10-12 22:00:00] ERROR auth-service Invalid token signature.
+Parse these meeting notes into a prioritized markdown checklist: Discussed API rate limiting, fixed the login bug, and scheduled deployment for Friday.
+Format the following list of cities alphabetically: Tokyo, New York, Berlin, Sydney, London, Paris.
+Convert the temperature 98.6 degrees Fahrenheit into Celsius and Kelvin, showing the formula used.
+Strip all HTML tags from the following string and return plain text: <div class="content"><h1>Hello World</h1><p>This is a test.</p></div>
+Parse this address string into structured JSON keys (street, city, state, zip): 1042 Market Street, Suite 400, San Francisco, CA 94102.
+Convert the following comma-separated list into a numbered markdown list: Apple, Banana, Orange, Grape, Mango.
+Extract all numerical values from this sentence and sum them up: We shipped 12 updates across 3 microservices affecting 450 active users.
+Format this changelog entry into standard semantic release notes categories (Added, Changed, Fixed): Added dark mode toggle, fixed mobile navbar overflow, changed primary button color.
+Convert this YAML block into an equivalent JSON object: server: { host: "localhost", port: 8080 }
+Parse this plain text invoice line item into structured key-value pairs: 3x Enterprise License at $150.00 each equals $450.00.
+Convert this plain text narrative into a chronological timeline with time markers: The server crashed at 02:15 UTC, the pager triggered at 02:18 UTC, and the incident was resolved at 02:45 UTC.
+Extract all URLs from this paragraph and output them in a bulleted list: Visit our documentation at https://docs.example.com or check out our GitHub repository at https://github.com/example/repo for source code.
+Normalize this messy list of names into standard First Last title case format: jOHN dOE, alice smith, BOB JOHNSON.
+Convert this key-value pair string into a formatted Markdown definition list: host=127.0.0.1; port=5432; user=admin; db=production.
+Extract all mentions of monetary amounts from this text and list them: The project budget is 50000 USD, with an initial allocation of 12000 USD for infrastructure and 500 USD for tooling.
+Convert the following bulleted list into a compact semicolon-separated string: Server uptime: 99.9%, Latency: 45ms, Error rate: 0.01%.
+Parse this user agent string into browser, OS, and device type fields: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36.
+Summarize the main plot of Shakespeare's Hamlet in exactly two sentences.
+Rewrite the following corporate sentence into plain, direct English: "We are currently experiencing an optimization period regarding our cross-functional alignment synergies."
+Explain quantum computing to a high school student using an analogy of a spinning coin.
+Rewrite this casual message into a formal professional email: "Hey, can you send me that report by tomorrow morning? Thanks."
+Summarize the core principles of the Agile Manifesto in three bullet points.
+Rewrite this paragraph in active voice: "The bug was identified by the QA team during the morning regression testing cycle."
+Explain how photosynthesis works in plants using four sequential steps.
+Write a compelling 30-word product description for an ergonomic mechanical keyboard.
+Summarize the differences between renewable and non-renewable energy sources in a short comparison table.
+Rewrite this technical text to be easily understood by a non-technical marketing executive: "Latency spikes are caused by garbage collection pauses in the JVM heap during high concurrency threads."
+Draft a professional out-of-office message for someone attending a technology conference from Monday to Wednesday.
+Summarize the history of the internet from ARPANET to modern fiber optics in four distinct milestones.
+Rewrite this sentence to remove all redundancy: "In my personal opinion, I honestly believe that we should fundamentally rethink our core strategy from scratch."
+Write an engaging social media post announcing a new open-source software release.
+Summarize the top three causes of climate change according to mainstream scientific consensus.
+Rewrite this negative customer review response into an empathetic and constructive customer service reply.
+Explain the concept of inflation using the analogy of too many toys chasing too few shelves.
+Summarize the main arguments for and against remote work policies in two concise paragraphs.
+Rewrite this complex medical disclaimer into simple, direct language.
+Write a warm, professional LinkedIn connection request message to a senior software architect.
+Solve this logic puzzle: If all bloops are bleeps, and all bleeps are blrops, are all bloops guaranteed to be blrops? Explain your reasoning.
+A train leaves Chicago traveling at 60 mph. Another train leaves the same station 2 hours later traveling at 90 mph in the same direction. How long will it take the second train to catch the first? Show your math.
+Identify the logical fallacy in this statement: "Everyone is buying this new framework, so it must be the best architectural choice for our enterprise system."
+If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost? Show step-by-step logic.
+Evaluate the trade-offs between monolithic and microservices architectures in terms of scalability and operational complexity.
+Solve for x: 3x + 15 = 45 minus 2x. Show all steps clearly.
+Analyze why a company might choose an SQL database over a NoSQL database for a financial ledger application.
+Determine whether the following statement is fact, opinion, or bias: "Python is vastly superior to JavaScript for backend development because of its clean syntax."
+Break down the criteria for selecting an appropriate caching strategy (e.g., Redis vs Memcached) for a high-traffic web service.
+Solve this word problem: A project takes 4 developers 15 days to complete. Assuming linear scalability, how many days would it take 6 developers to complete the same project?
+Identify the flaw in this statement: "Our server uptime was 100% yesterday, therefore our infrastructure is entirely immune to failures."
+Compare the security trade-offs of JWT (JSON Web Tokens) versus traditional server-side session cookies.
+Calculate the compound interest on an initial principal of $10,000 at an annual interest rate of 5% compounded annually over 3 years. Show calculation steps.
+Outline the key risk factors associated with adopting third-party open-source libraries with unverified maintenance status.
+Solve this constraint satisfaction problem: Arrange three tasks (A, B, C) where A must finish before B starts, and C can run concurrently with either. Provide a valid execution schedule.
+Analyze the performance impact of database indexes on read versus write operations.
+Explain how public key cryptography prevents man-in-the-middle attacks during TLS handshakes.
+Evaluate the pros and cons of using cloud serverless functions (like AWS Lambda) compared to traditional virtual private servers (VPS).
+Determine the output of a logical expression: True AND (False OR NOT(True)). Explain each step.
+Outline a 4-step root cause analysis framework (like the 5 Whys technique) applied to an unexpected database connection timeout incident.
+Generate 5 unique names for a modern fintech startup focused on automated micro-savings.
+Write a 3-sentence science fiction micro-fiction story about the last automated server running on Earth.
+Suggest 5 icebreaker questions specifically tailored for a team of senior software engineers during a remote retrospective.
+Generate 5 catchy blog post titles about optimizing application latency in distributed systems.
+Write a 50-word elevator pitch for an AI-powered code review assistant.
+Suggest 4 creative ways to gamify bug reporting for QA testers and developers.
+Generate 5 distinct theme ideas for a cyberpunk-inspired tactical video game.
+Write a professional bio (under 60 words) for a full-stack developer specializing in cloud architecture and game engines.
+Suggest 5 features for a minimalist productivity timer app designed for deep work sessions.
+Generate 5 creative metaphors to explain how an LLM tokenizes text.
+Write a short poem (4 lines) about the feeling of successfully fixing a stubborn production bug at 3 AM.
+Suggest 5 marketing campaign angles for an open-source database management tool.
+Generate 5 engaging questions to ask candidate software engineers during a system design interview.
+Write a motivational banner quote for a software engineering team dashboard.
+Suggest 4 unique mechanics for a stealth puzzle game involving light and shadow.
+Generate 5 names for a high-performance C# game development library.
+Write a 3-sentence spooky story where the twist is related to corrupted production data.
+Suggest 5 ways to reduce context switching friction for developers working across multiple repositories.
+Generate 5 creative taglines for a cloud infrastructure monitoring service.
+Write a short greeting message from an advanced AI assistant tailored specifically for a senior software engineer working on indie games.
