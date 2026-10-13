@@ -3,6 +3,7 @@ name = "learn-agentic-ai"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
+    "faker>=40.43.0",
     "fastapi>=0.143.0",
     "langchain>=1.4.4",
     "langchain-core>=1.6.9",
@@ -12,9 +13,12 @@ dependencies = [
     "langchain-openrouter>=0.2.9",
     "langchain-typesafe>=0.0.1a3",
     "openai>=3.26.1",
+    "psycopg>=3.3.6",
+    "psycopg-binary>=3.3.6",
     "pydantic>=2.14.0",
     "python-dotenv>=1.2.4",
     "requests>=2.34.2",
+    "sqlalchemy>=2.1.4",
     "starlette>=1.7.0",
     "uvicorn>=0.54.0",
 ]
