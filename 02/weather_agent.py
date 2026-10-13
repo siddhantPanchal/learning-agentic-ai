@@ -13,8 +13,9 @@ def get_weather(city: str) -> str:
 
 def main():
     model = init_chat_model(
-        model="accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b",
-        model_provider="fireworks",
+        # model="accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b",
+        model="nvidia/nemotron-3.5-lightning-30b-a3b",
+        model_provider="nvidia",
         # base_url="http://localhost:12434/v1"
     )
 
