@@ -204,10 +204,10 @@ def main():
     )
 
     model = init_chat_model(
-        model="nvidia/nemotron-3.5-lightning-30b-a3b",
-        model_provider="nvidia",
-        # model="llama3.2:3B-F16",
-        # model_provider="openai",
+        # model="nvidia/nemotron-3.5-lightning-30b-a3b",
+        # model_provider="nvidia",
+        model="gemma4:e4b",
+        model_provider="ollama",
         # base_url="http://localhost:12434/v1"
         # stream_usage=True,
     )
