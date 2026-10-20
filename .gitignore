@@ -2,3 +2,4 @@
 .idea
 uv.lock
 .venv
+/02/tool_permissions/file.txt
