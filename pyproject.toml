@@ -3,6 +3,7 @@ name = "learn-agentic-ai"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
+    "deepagents>=0.7.28",
     "faker>=40.43.0",
     "fastapi>=0.143.0",
     "langchain>=1.4.4",
