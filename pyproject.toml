@@ -20,6 +20,7 @@ dependencies = [
     "pydantic>=2.14.0",
     "python-dotenv>=1.2.4",
     "requests>=2.34.2",
+    "rich>=15.0.0",
     "sqlalchemy>=2.1.4",
     "starlette>=1.7.0",
     "uvicorn>=0.54.0",
